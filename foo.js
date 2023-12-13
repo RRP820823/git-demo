@@ -3,6 +3,8 @@ function foo(params) {
     name: "rushikesh",
   }
 }
+// i am in dev -chage password
+function ChangePassword(params) {}
 
 // i am in dev - login
 
